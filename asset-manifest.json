@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/princeton19/static/css/main.bf5c9e46.chunk.css",
+    "main.js": "/princeton19/static/js/main.0dfa6b2c.chunk.js",
+    "main.js.map": "/princeton19/static/js/main.0dfa6b2c.chunk.js.map",
+    "runtime-main.js": "/princeton19/static/js/runtime-main.bea833d4.js",
+    "runtime-main.js.map": "/princeton19/static/js/runtime-main.bea833d4.js.map",
+    "static/js/2.5c4486e4.chunk.js": "/princeton19/static/js/2.5c4486e4.chunk.js",
+    "static/js/2.5c4486e4.chunk.js.map": "/princeton19/static/js/2.5c4486e4.chunk.js.map",
+    "index.html": "/princeton19/index.html",
+    "precache-manifest.b8f2b420408315b96f0f7582e69c7253.js": "/princeton19/precache-manifest.b8f2b420408315b96f0f7582e69c7253.js",
+    "service-worker.js": "/princeton19/service-worker.js",
+    "static/css/main.bf5c9e46.chunk.css.map": "/princeton19/static/css/main.bf5c9e46.chunk.css.map",
+    "static/media/claudia.jpg": "/princeton19/static/media/claudia.dd14e267.jpg",
+    "static/media/denise.png": "/princeton19/static/media/denise.c3ae86d4.png",
+    "static/media/all.min.css": "/princeton19/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/media/john.png": "/princeton19/static/media/john.072cba28.png",
+    "static/media/jordan.png": "/princeton19/static/media/jordan.60635e43.png",
+    "static/media/serenaBig.jpg": "/princeton19/static/media/serenaBig.49c428a3.jpg",
+    "static/media/steph.png": "/princeton19/static/media/steph.41bf8f00.png",
+    "static/media/yang.png": "/princeton19/static/media/yang.fbee8862.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bea833d4.js",
+    "static/js/2.5c4486e4.chunk.js",
+    "static/css/main.bf5c9e46.chunk.css",
+    "static/js/main.0dfa6b2c.chunk.js"
+  ]
+}
